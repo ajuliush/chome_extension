@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('assets/background.jpg') no-repeat center center/cover;
+    color: white;
+}
+
+.container {
+    text-align: center;
+}
+
+#clock {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+#quote {
+    font-size: 24px;
+    font-style: italic;
+}
